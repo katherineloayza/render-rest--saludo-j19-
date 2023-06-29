@@ -2,4 +2,4 @@ GET http://localhost:8080/saludo
 
 ###
 
-GET http://localhost:8080/saludo?name=Franco
+GET http://localhost:8080/saludo?name=Katherine
